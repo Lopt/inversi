@@ -281,3 +281,4 @@ if __name__ == '__main__':
     r.play(X = ki_alpha_beta, O = ki_random) # alpha-beta recursion: 3
     #r.play(X = ki_minimax, O = ki_random) # Minimax recursion: 3
     #r.play(X = ki_minimax, O = ki) # Gewichtung recursion: 1
+    ###
